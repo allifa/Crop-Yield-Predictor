@@ -1,4 +1,4 @@
-# Integrating IoT for Soil Monitoring and Hybrid Machine Learning in Predicting Tomato Crop Diseases
+# Integrating IoT Hybrid Machine Learning for Soil Monitoring 
 This project develops a hybrid machine learning (ML) algorithm integrated with IoT 
 technology to improve the accuracy and efficiency of soil monitoring and tomato crop disease 
 prediction. An IoT device collected critical 
